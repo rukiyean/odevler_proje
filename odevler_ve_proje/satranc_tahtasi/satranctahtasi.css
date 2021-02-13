@@ -1,0 +1,29 @@
+body{
+    background: white;
+}
+h1{
+    color:black;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 3em;
+}
+table{
+    margin:auto;
+    border:5px solid black;
+    border-spacing: 5px;
+}
+table td{
+    width: 75px;
+    height: 75px;
+    background: #f5f6fa;
+    font-size:3em;
+    line-height: 75px;
+    text-align: center;
+    border:2px solid #c9983d;
+}
+.siyah{
+    background: #c9983d;
+}
+.beyaz{
+    background: white;
+}
